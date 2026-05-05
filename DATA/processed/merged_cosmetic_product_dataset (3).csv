@@ -1,0 +1,294 @@
+brand,product_name,loves_count,rating,label,price,dry,normal,oily,sensitive,log_price,log_loves_count,CF
+belif,The True Cream Aqua Bomb,265050,4.49205,Moisturizer,38.0,0,1,1,0,3.6635616461296463,12.487677539281878,0
+First Aid Beauty,Ultra Repair Cream Intense Hydration,300432,4.56,Moisturizer,38.0,1,1,1,1,3.6635616461296463,12.612980046367287,1
+Shiseido,Bio-Performance Advanced Super Revitalizing Cream,22311,4.56675,Moisturizer,85.0,0,0,0,0,4.454347296253507,10.012879929307324,0
+fresh,Black Tea Firming Overnight Mask,73168,4.118449999999999,Moisturizer,96.0,1,1,0,0,4.574710978503383,11.20052711298135,0
+belif,The True Cream Moisturizing Bomb,151868,4.58155,Moisturizer,38.0,1,1,0,0,3.6635616461296463,11.93077358612372,0
+Origins,Dr. Andrew Weil for Origins Mega-Mushroom Relief & Resilience Soothing Treatment Lotion,6749,4.401400000000001,Moisturizer,40.0,1,1,1,1,3.713572066704308,8.817297783866575,0
+CLINIQUE,Dramatically Different Moisturizing Lotion+,92239,3.90505,Moisturizer,32.5,1,0,0,0,3.5115454388310208,11.43214915494294,0
+SK-II,GenOptics Aura Essence Serum,16102,4.087899999999999,Moisturizer,245.0,1,1,1,1,5.5053315359323625,9.686760869017997,0
+Josie Maran,100 percent Pure Argan Oil,134089,4.4999,Moisturizer,49.0,1,0,1,1,3.912023005428146,11.806266495273688,1
+Tatcha,Luminous Dewy Skin Mist,209577,3.9755,Moisturizer,49.0,1,1,0,1,3.912023005428146,12.252851264088084,1
+CLINIQUE,Dramatically Different Moisturizing Gel,95864,4.46915,Moisturizer,32.5,0,0,1,0,3.5115454388310208,11.470696230752491,0
+La Mer,The Renewal Oil,14920,4.3128,Moisturizer,270.0,1,1,1,1,5.602118820879701,9.610524895640422,0
+Tatcha,The Silk Cream,44847,4.24425,Moisturizer,125.0,1,1,0,1,4.836281906951478,10.71103427340457,1
+Bobbi Brown,Vitamin Enriched Face Base Priming Moisturizer,171118,4.5529,Moisturizer,66.0,0,1,1,0,4.204692619390966,12.050114499886943,0
+Dr. Jart+,Cicapair Tiger Grass Color Correcting Treatment SPF 30,210786,4.0952,Moisturizer,52.0,1,1,1,1,3.970291913552122,12.25860342391846,0
+Sunday Riley,Juno Antioxidant + Superfood Face Oil,69459,4.36495,Moisturizer,72.0,1,1,0,1,4.290459441148391,11.148506326298063,1
+fresh,Black Tea Corset Cream Firming Moisturizer,3371,4.00325,Moisturizer,95.0,0,0,0,0,4.564348191467836,8.123261319121745,0
+First Aid Beauty,Hello FAB Coconut Skin Smoothie Priming Moisturizer,77772,4.199400000000001,Moisturizer,32.0,1,1,1,1,3.49650756146648,11.261549606231082,1
+fresh,Rose Floral Toner,80841,4.10335,Moisturizer,15.0,0,0,0,0,2.772588722239781,11.300251911439132,0
+Origins,High-Potency Night-A-Mins Oil-Free Resurfacing Cream with Fruit Derived AHAs,10847,4.3179,Moisturizer,52.0,0,1,1,0,3.970291913552122,9.291736010180175,0
+tarte,Amazonian Clay BB Tinted Moisturizer Broad Spectrum SPF 20 Sunscreen,78502,4.26445,Moisturizer,39.0,0,0,0,0,3.688879454113936,11.270892119600775,1
+Jack Black,Double-Duty Face Moisturizer Broad Spectrum SPF 20,19364,4.4731000000000005,Moisturizer,30.0,0,0,0,0,3.4339872044851463,9.871222591948852,1
+La Mer,The Moisturizing Cool Gel Cream,8727,3.4894,Moisturizer,200.0,1,1,1,1,5.303304908059076,9.074291527512909,0
+Algenist,GENIUS Ultimate Anti-Aging Cream,19733,4.27625,Moisturizer,112.0,1,1,1,1,4.727387818712341,9.890098315417111,0
+Dr. Jart+,Cicapair Tiger Grass Cream,73855,4.31165,Moisturizer,49.0,1,1,1,1,3.912023005428146,11.209872530427717,0
+CLINIQUE,Dramatically Different Hydrating Jelly,32096,3.93715,Moisturizer,45.0,0,1,1,1,3.828641396489095,10.376517846806715,0
+Josie Maran,Whipped Argan Oil Face Butter,40417,4.12105,Moisturizer,45.0,1,1,1,1,3.828641396489095,10.607030509278191,1
+Origins,Original Skin Matte Moisturizer with Willowherb,54899,4.45445,Moisturizer,40.0,1,1,1,0,3.713572066704308,10.913268627497622,0
+belif,Aqua Bomb Sleeping Mask,47248,4.60735,Moisturizer,38.0,1,1,1,1,3.6635616461296463,10.763186768676764,0
+Origins,High-Potency Night-a-Mins Resurfacing Cream with Fruit-Derived AHAs,18198,4.30795,Moisturizer,52.0,1,1,0,0,3.970291913552122,9.809121926500406,0
+Kiehl's Since 1851,Daily Reviving Concentrate,26859,4.549300000000001,Moisturizer,59.0,1,1,1,1,4.0943445622221,10.198393470077228,0
+fresh,Vitamin C Glow Moisturizer,36763,4.27055,Moisturizer,48.0,0,1,1,1,3.8918202981106265,10.512274384478,0
+Murad,Hydro-Dynamic Ultimate Moisture,17680,4.37825,Moisturizer,83.0,0,0,0,0,4.430816798843313,9.780245895678089,1
+Murad,Retinol Youth Renewal Night Cream,21491,4.603899999999999,Moisturizer,88.0,1,1,1,1,4.48863636973214,9.975436051848712,1
+SK-II,GenOptics Spot Essence Serum,4899,4.1673,Moisturizer,225.0,1,1,1,1,5.420534999272286,8.496990484098719,0
+REN Clean Skincare,Evercalm Overnight Recovery Balm,38294,4.6932,Moisturizer,55.0,1,1,1,1,4.02535169073515,10.553074618343691,0
+Kiehl's Since 1851,Ultra Facial Oil-Free Gel Cream,11677,4.293799999999999,Moisturizer,38.0,0,1,0,0,3.6635616461296463,9.365462008843483,0
+Origins,Dr. Andrew Weil For Origins Mega-Bright SPF 30 Skin Tone Correcting Oil-Free Moisturizer,18986,4.0983,Moisturizer,63.0,1,1,1,0,4.158883083359672,9.851509813443416,0
+First Aid Beauty,Ultra Repair Face Moisturizer,59220,4.1982,Moisturizer,28.0,1,1,1,1,3.367295829986474,10.98903148770011,1
+Origins,Plantscription SPF 25 Power Anti-Aging Cream,10649,4.477,Moisturizer,73.0,1,1,0,1,4.304065093204169,9.273315171137572,0
+La Mer,The Moisturizing Soft Lotion,4580,3.8352,Moisturizer,320.0,1,1,1,1,5.771441123130016,8.429672593886743,0
+Murad,Essential-C Day Moisture Broad Spectrum SPF 30 PA+++,24570,4.12425,Moisturizer,68.0,1,1,1,1,4.23410650459726,10.1093221647277,1
+CLINIQUE,Moisture Surge CC Cream Hydrating Colour Corrector Broad Spectrum SPF 30,40156,3.79,Moisturizer,42.0,0,0,0,0,3.7612001156935615,10.600552050380118,0
+Shiseido,Future Solution LX Total Regenerating Cream,2632,3.875,Moisturizer,290.0,1,1,1,1,5.673323267171493,7.87587915949631,0
+tarte,Maracuja Oil,79986,4.398,Moisturizer,48.0,0,0,0,0,3.8918202981106265,11.289619400451462,1
+Tatcha,Gold Camellia Beauty Oil,47809,4.53755,Moisturizer,98.0,1,1,1,1,4.59511985013459,10.77499010162015,1
+L'Occitane,Immortelle Divine Cream,6151,3.89025,Moisturizer,115.0,0,0,0,0,4.7535901911063645,8.72453251118548,0
+Kate Somerville,Oil Free Moisturizer,17558,4.17445,Moisturizer,76.0,0,1,1,0,4.343805421853684,9.773321917959333,1
+Algenist,Overnight Restorative Cream,10578,4.3904,Moisturizer,94.0,0,0,0,0,4.553876891600541,9.266626182986776,0
+MILK MAKEUP,Cooling Water,107607,3.73875,Moisturizer,28.0,1,1,1,1,3.367295829986474,11.586250273388416,1
+CLINIQUE,Moisture Surge Hydrating Supercharged Concentrate,19480,4.0123,Moisturizer,44.0,1,1,1,1,3.80666248977032,9.877194910581204,0
+Algenist,SUBLIME DEFENSE Ultra Lightweight UV Defense Fluid SPF 50,27278,4.406700000000001,Moisturizer,28.0,0,0,0,0,3.367295829986474,10.213872454394023,0
+Josie Maran,Argan Cleansing Oil,29027,4.0762,Moisturizer,36.0,1,1,1,1,3.610917912644224,10.276016160398028,1
+Kiehl's Since 1851,Ultra Facial Moisturizer,10346,3.80715,Moisturizer,38.0,1,1,1,1,3.6635616461296463,9.24445190160495,0
+Kate Somerville,Wrinkle Warrior 2-in-1 Plumping Moisturizer + Serum,19713,3.80375,Moisturizer,98.0,1,1,1,0,4.59511985013459,9.889084322225385,1
+Dr. Dennis Gross Skincare,Hyaluronic Marine Oil-Free Moisture Cushion,13709,4.117100000000001,Moisturizer,65.0,1,1,1,1,4.189654742026425,9.52588077255636,1
+Murad,Nutrient-Charged Water Gel,21135,4.53775,Moisturizer,71.0,1,1,1,1,4.276666119016055,9.958733026762106,1
+First Aid Beauty,Hello FAB Coconut Water Cream,64785,4.10045,Moisturizer,36.0,0,1,1,1,3.610917912644224,11.07884480961562,1
+Dr. Brandt Skincare,Do Not Age with Dr. Brandt Moisturizing Neck Cream,6096,3.98725,Moisturizer,67.0,1,1,1,0,4.219507705176107,8.715552125907816,0
+tarte,Colored Clay CC Undereye Corrector,36594,4.24195,Moisturizer,28.0,0,0,0,0,3.367295829986474,10.507666898035328,1
+Origins,Plantscription Youth-Renewing Power Night Cream,9952,4.49485,Moisturizer,73.0,1,1,1,1,4.304065093204169,9.205629292246064,0
+Kate Somerville,ExfoliKate Glow Moisturizer,15906,4.5555,Moisturizer,76.0,1,1,1,0,4.343805421853684,9.67451454289836,1
+Dior,Capture Totale Intensive Night Restorative Crème,4799,4.47725,Moisturizer,175.0,0,0,0,0,5.170483995038151,8.476371196895983,0
+Josie Maran,Argan Infinity Cream Intensive Creamy Oil,33244,4.5081500000000005,Moisturizer,28.0,1,1,0,1,3.367295829986474,10.411659658836555,1
+Shiseido,Benefiance NutriPerfect Night Cream,5520,4.5861,Moisturizer,97.0,0,0,0,0,4.584967478670572,8.616314282284044,0
+Jack Black,Clean Break Oil-Free Moisturizer,6821,4.46505,Moisturizer,30.0,0,1,1,1,3.4339872044851463,8.82790796297859,1
+Bobbi Brown,Hydrating Face Cream Moisturizer,14373,4.259399999999999,Moisturizer,66.0,0,0,0,0,4.204692619390966,9.573176298028388,0
+Dior,Capture Youth Age-Delay Advanced Crème,7745,3.91095,Moisturizer,110.0,1,1,1,1,4.709530201312334,8.954931860074698,0
+Algenist,POWER Recharging Night Pressed Serum,10859,4.3927,Moisturizer,95.0,1,1,1,1,4.564348191467836,9.292841593487926,0
+La Mer,The Moisturizing Matte Lotion,4347,4.0629,Moisturizer,320.0,0,1,1,0,5.771441123130016,8.3774712482411,0
+Kate Somerville,Goat Milk Moisturizing Cream,19623,4.07245,Moisturizer,76.0,1,1,1,1,4.343805421853684,9.884508585938326,1
+Lancôme,Tonique Confort Re-Hydrating Comforting Toner with Acacia Honey,55339,4.57925,Cleanser,39.0,0,0,0,0,3.688879454113936,10.921251253340916,0
+Tatcha,The Rice Polish Foaming Enzyme Powder,184011,4.4139,Cleanser,68.0,1,1,1,1,4.23410650459726,12.122756251855863,1
+Kiehl's Since 1851,Calendula Herbal Extract Alcohol Free Toner,37317,4.2608,Cleanser,47.0,0,0,0,0,3.8712010109078903,10.527231062957194,0
+Lancôme,Bi-Facil Double-Action Eye Makeup Remover,72577,4.675549999999999,Cleanser,38.0,0,0,0,0,3.6635616461296463,11.192417124586898,0
+SEPHORA COLLECTION,Cleansing & Exfoliating Wipes,266116,4.41915,Cleanser,3.0,0,0,0,0,1.3862943611198906,12.491691340682406,0
+Origins,Checks and Balances Frothy Face Wash,98621,4.2944,Cleanser,27.0,1,1,1,1,3.332204510175204,11.49904963943458,0
+Shiseido,Facial Cotton,133163,4.8642,Cleanser,13.0,0,0,0,0,2.639057329615259,11.799336730288564,0
+La Mer,The Cleansing Foam,19070,4.15,Cleanser,95.0,0,0,0,0,4.564348191467836,9.855924135604518,0
+Drunk Elephant,Beste No. 9 Jelly Cleanser,113466,4.0213,Cleanser,34.0,0,1,1,1,3.555348061489413,11.63926732472926,1
+OLEHENRIKSEN,Balancing Force Oil Control Toner,98160,4.35085,Cleanser,35.0,1,1,1,1,3.58351893845611,11.494364266781965,1
+CLINIQUE,"Take The Day Off Makeup Remover For Lids, Lashes & Lips",89554,4.55375,Cleanser,23.5,0,0,0,0,3.198673117550681,11.402608240659358,0
+SK-II,Facial Treatment Clear Lotion Toner,24003,4.09795,Cleanser,80.0,1,1,1,1,4.394449154672439,10.085975762109404,0
+fresh,Sugar Face Polish Exfoliator,78005,4.559799999999999,Cleanser,64.0,0,0,0,0,4.174387269895637,11.264541025790225,0
+Kate Somerville,ExfoliKate Cleanser Daily Foaming Wash,62349,4.4747,Cleanser,44.0,0,0,0,0,3.80666248977032,11.040518951108185,1
+Youth To The People,Superfood Antioxidant Cleanser,404142,4.3056,Cleanser,39.0,0,0,0,0,3.688879454113936,12.909524054710124,1
+SEPHORA COLLECTION,Waterproof Eye Makeup Remover,93461,4.38365,Cleanser,11.0,0,0,0,0,2.4849066497880004,11.44531021555466,0
+Kiehl's Since 1851,Calendula Deep Clean Foaming Face Wash,39855,4.60165,Cleanser,38.0,1,1,1,1,3.6635616461296463,10.593028237501962,0
+SK-II,Facial Treatment Cleanser,14027,4.2153,Cleanser,75.0,1,1,1,1,4.330733340286331,9.548810611260068,0
+KORRES,Greek Yoghurt Foaming Cream Cleanser,38097,4.583349999999999,Cleanser,28.0,1,1,1,1,3.367295829986474,10.547917066298645,1
+Kiehl's Since 1851,Ultra Facial Cleanser,63080,4.4856,Cleanser,30.0,1,1,1,1,3.4339872044851463,11.052174893836543,0
+CLINIQUE,Clarifying Lotion 2,38875,4.390750000000001,Cleanser,20.0,0,0,0,0,3.044522437723423,10.568132372623362,0
+Kiehl's Since 1851,Ultra Facial Toner,27710,4.38185,Cleanser,24.0,1,1,1,1,3.218875824868201,10.22958472526072,0
+Drunk Elephant,Baby Pekee Bar + Juju Bar Travel Duo,55728,4.42,Cleanser,16.0,1,1,1,0,2.833213344056216,10.928255936745677,1
+Peter Thomas Roth,Anti-Aging Cleansing Gel,32125,4.38495,Cleanser,39.0,0,0,0,0,3.688879454113936,10.377420950117711,0
+Caudalie,Vinopure Natural Salicylic Acid Pore Minimizing Toner,21937,3.9207,Cleanser,30.0,0,1,1,1,3.4339872044851463,9.99597557197128,0
+La Mer,The Tonic,9567,4.11665,Cleanser,95.0,1,1,1,1,4.564348191467836,9.166179476190411,0
+MAKE UP FOR EVER,Sens’Eyes - Waterproof Sensitive Eye Cleanser,29284,4.3829,Cleanser,25.0,0,0,0,0,3.258096538021482,10.284830718523883,0
+Kate Somerville,EradiKate Daily Cleanser Acne Treatment,36518,4.2696000000000005,Cleanser,44.0,0,1,1,0,3.80666248977032,10.505587952077706,1
+IT Cosmetics,Bye Bye Makeup 3-in-1 Makeup Melting Cleansing Balm,5368,4.58705,Cleanser,42.0,1,1,1,1,3.7612001156935615,8.58839695042257,1
+Farmacy,Clean Bee Ultra Gentle Facial Cleanser,52562,4.16705,Cleanser,28.0,1,1,1,1,3.367295829986474,10.869767729155198,1
+CLINIQUE,Acne Solutions Cleansing Foam,43458,4.1843,Cleanser,23.5,1,1,1,0,3.198673117550681,10.679573243881636,0
+REN Clean Skincare,Ready Steady Glow Daily AHA Tonic,76269,4.2715,Cleanser,40.0,1,1,1,1,3.713572066704308,11.242034955158283,0
+Murad,AHA/BHA Exfoliating Cleanser,54926,4.549049999999999,Cleanser,46.0,0,0,0,0,3.8501476017100575,10.913760309880717,1
+Origins,GinZing Refreshing Scrub Cleanser,49081,4.48815,Cleanser,27.0,1,1,1,1,3.332204510175204,10.801247647790849,0
+OLEHENRIKSEN,Pore-Balance Facial Sauna Scrub,69759,4.57985,Cleanser,35.0,0,0,1,0,3.58351893845611,11.15281605858286,1
+CLINIQUE,Blackhead Solutions Self-heating Blackhead Extractor,33034,3.39295,Cleanser,32.0,1,1,1,1,3.49650756146648,10.405322884463986,0
+Glow Recipe,Blueberry Bounce Gentle Cleanser,72289,4.10515,Cleanser,34.0,1,1,1,1,3.555348061489413,11.188441085994343,1
+Jack Black,Pure Clean Daily Facial Cleanser,10328,4.586,Cleanser,20.0,0,0,0,0,3.044522437723423,9.242710752006634,1
+CLINIQUE,Acne Solutions Clarifying Lotion,40683,4.402100000000001,Cleanser,20.0,1,1,1,0,3.044522437723423,10.613590173745488,0
+Kiehl's Since 1851,Rare Earth Deep Pore Daily Cleanser,22813,4.4436,Cleanser,28.0,0,1,1,1,3.367295829986474,10.035129661587844,0
+CLINIQUE,Clarifying Lotion 3,24326,4.35905,Cleanser,20.0,0,0,0,0,3.044522437723423,10.099342123612669,0
+CLINIQUE,Rinse-Off Foaming Cleanser,17770,4.54665,Cleanser,23.5,0,0,0,0,3.198673117550681,9.785323194185484,0
+Kiehl's Since 1851,Midnight Recovery Botanical Cleansing Oil,24814,4.3422,Cleanser,35.0,1,1,1,1,3.58351893845611,10.11920358802154,0
+Kiehl's Since 1851,Epidermal Re-Texturizing Micro-Dermabrasion,17152,4.80865,Cleanser,46.0,1,1,1,0,3.8501476017100575,9.749928364409826,0
+Lancôme,Crème Radiance Gentle Cleansing Creamy-Foam Cleanser,17120,4.4708000000000006,Cleanser,34.0,0,0,0,0,3.555348061489413,9.748061059204815,0
+Clarins,One-Step Gentle Exfoliating Cleanser with Orange Extract,25054,4.6569,Cleanser,39.0,1,1,1,0,3.688879454113936,10.128828687393826,0
+Jack Black,Face Buff Energizing Scrub,10670,4.7807,Cleanser,20.0,0,0,0,0,3.044522437723423,9.275285060616564,1
+REN Clean Skincare,Evercalm Gentle Cleansing Milk,2764,4.3104,Cleanser,38.0,1,1,1,1,3.6635616461296463,7.9247959139564355,0
+Murad,Essential-C Cleanser,18246,4.4981,Cleanser,44.0,0,0,0,0,3.80666248977032,9.811755961936536,1
+Koh Gen Do,Cleansing Spa Water Cloths,23197,4.53945,Cleanser,23.0,0,0,0,0,3.1780538303479458,10.05182134704182,1
+OLEHENRIKSEN,Find Your Balance Oil Control Cleanser,72479,4.46495,Cleanser,33.0,0,0,1,0,3.5263605246161616,11.19106594071686,1
+Jack Black,Deep Dive Glycolic Facial Cleanser,12874,4.59135,Cleanser,24.0,0,0,0,0,3.218875824868201,9.463042725531936,1
+Bobbi Brown,Soothing Face Cleanser Oil,10137,4.3031500000000005,Cleanser,53.0,0,0,0,0,3.9889840465642745,9.224046019032295,0
+Shiseido,Perfect Cleansing Oil,21389,4.4757,Cleanser,35.0,0,0,0,0,3.58351893845611,9.970678802076453,0
+CLINIQUE,Rinse-Off Eye Makeup Solvent,8420,4.27525,Cleanser,23.5,0,0,0,0,3.198673117550681,9.038483865029992,0
+Dr. Brandt Skincare,PoreDermabrasion Pore Perfecting Exfoliator,20771,4.22185,Cleanser,59.0,0,1,1,0,4.0943445622221,9.94136120496421,0
+Tatcha,Aburatorigami Japanese Blotting Papers,16714,4.5537,Cleanser,14.0,1,1,1,1,2.70805020110221,9.7240617988542,1
+Charlotte Tilbury,Multi-Miracle Glow Cleansing Balm,7612,4.52145,Cleanser,60.0,1,1,1,1,4.110873864173311,8.937612591306213,1
+Herbivore,Bamboo Charcoal Detoxifying Soap Bar,28997,4.4006,Cleanser,14.0,0,1,1,0,2.70805020110221,10.27498214107314,1
+Murad,Clarifying Toner,21951,2.159,Cleanser,30.0,0,0,0,0,3.4339872044851463,9.996613530525613,1
+Origins,Plantscription Anti-Aging Cleanser,8293,4.29355,Cleanser,36.0,0,0,0,0,3.610917912644224,9.023287640806329,0
+Shiseido,Future Solution LX Extra Rich Cleansing Foam,5098,4.302149999999999,Cleanser,65.0,1,1,1,1,4.189654742026425,8.536799721055155,0
+Shiseido,Oil Control Blotting Paper,4649,4.13485,Cleanser,20.0,1,1,1,1,3.044522437723423,8.444622498581403,0
+Peter Thomas Roth,Acne Clearing Wash,10371,4.213150000000001,Cleanser,39.0,1,1,1,1,3.688879454113936,9.246865146658555,0
+Murad,Essential-C Toner,15154,4.3544,Cleanser,42.0,0,0,0,0,3.7612001156935615,9.626085789491905,1
+Murad,Renewing Cleansing Cream,7682,4.4823,Cleanser,45.0,0,0,0,0,3.828641396489095,8.946765374867635,1
+Murad,Hydrating Toner,15366,4.3467,Cleanser,42.0,0,0,0,0,3.7612001156935615,9.639977632055333,1
+CLINIQUE,Clarifying Lotion 1,7569,4.5075,Cleanser,20.0,0,0,0,0,3.044522437723423,8.931948346431495,0
+Origins,Mega-Mushroom Skin Relief Micellar Cleanser,11239,4.55,Cleanser,37.0,0,0,0,0,3.6375861597263857,9.32723412344768,0
+Lancôme,Tonique Radiance Clarifying Refining Toner,6619,4.1015,Cleanser,31.0,0,0,0,0,3.4657359027997265,8.797850648931053,0
+BeautyBio,GloPRO Prep Pads Clarifying Skin Cleansing Wipes with Peptides,4747,3.7778,Cleanser,39.0,1,1,1,1,3.688879454113936,8.465478755729558,1
+La Mer,The Cleansing Micellar Water,6735,4.35,Cleanser,95.0,0,0,0,0,4.564348191467836,8.815221555922163,0
+Kate Somerville,Gentle Daily Wash,7501,4.19545,Cleanser,44.0,0,0,0,0,3.80666248977032,8.922924930641832,1
+Algenist,GENIUS Ultimate Anti-Aging Melting Cleanser,9314,4.07845,Cleanser,38.0,0,0,0,0,3.6635616461296463,9.13938128303569,0
+Shiseido,Extra Rich Cleansing Milk,4643,4.61905,Cleanser,36.0,1,0,0,0,3.610917912644224,8.443331342817782,0
+Estée Lauder,Perfectly Clean Multi-Action Toning Lotion/Refiner,5546,4.35715,Cleanser,30.0,0,0,0,0,3.4339872044851463,8.621012520055235,0
+CLINIQUE,Clarifying Lotion 4,5508,4.3925,Cleanser,20.0,0,0,0,0,3.044522437723423,8.614138397472717,0
+CLINIQUE,Naturally Gentle Eye Makeup Remover,5712,4.37985,Cleanser,23.5,0,0,0,0,3.198673117550681,8.650499558724462,0
+CLINIQUE,Fresh Pressed Renewing Powder Cleanser with Pure Vitamin C,5608,4.6342,Cleanser,39.0,1,1,1,1,3.688879454113936,8.632127729508337,0
+Fenty Beauty by Rihanna,Invisimatte Blotting Paper,46350,3.80785,Cleanser,16.0,0,0,0,0,2.833213344056216,10.743998145734295,0
+Caudalie,Vinopure Natural Salicylic Acid Pore Minimizing Serum,31478,4.36875,Treatment,52.0,0,1,1,1,3.970291913552122,10.35707593582602,0
+La Mer,The Regenerating Serum,5356,4.1375,Treatment,410.0,1,1,1,1,6.018593214496234,8.58615939588096,0
+First Aid Beauty,Facial Radiance Pads,127405,4.28905,Treatment,36.0,1,1,1,1,3.610917912644224,11.755134116772613,1
+Estée Lauder,Perfectionist CP+R Wrinkle Lifting/Firming Serum,14820,4.261699999999999,Treatment,120.0,0,0,0,0,4.795790545596741,9.603800372956917,0
+La Mer,The Revitalizing Hydrating Serum,8300,4.1,Treatment,255.0,1,1,1,1,5.545177444479562,9.024131268455037,0
+Kate Somerville,EradiKate Acne Treatment,93898,4.26215,Treatment,28.0,1,1,1,0,3.367295829986474,11.449975015512385,1
+La Mer,The Treatment Lotion,8097,4.52195,Treatment,180.0,1,1,1,1,5.198497031265826,8.999372396592106,0
+OLEHENRIKSEN,Glow Cycle Retin-ALT Power Serum,43324,4.34365,Treatment,60.0,1,1,1,0,4.110873864173311,10.676485114583809,1
+fresh,Umbrian Clay Pore Purifying Face Mask,6419,4.45,Treatment,58.0,0,0,0,0,4.07753744390572,8.767173396684006,0
+Dior,One Essential Skin Boosting Super Serum,8855,4.49445,Treatment,110.0,1,1,0,0,4.709530201312334,9.088850474388472,0
+Murad,Invisiblur Perfecting Shield Broad Spectrum SPF 30 PA+++,36774,3.92735,Treatment,71.0,1,1,1,0,4.276666119016055,10.51257354546964,1
+Murad,Retinol Youth Renewal Serum,38145,4.443899999999999,Treatment,92.0,1,1,1,1,4.532599493153256,10.549176181936373,1
+Kate Somerville,D-Scar Scar Diminishing Serum,29199,4.12655,Treatment,56.0,1,1,1,1,4.04305126783455,10.281923988256374,1
+Josie Maran,Pure Argan Milk Intensive Hydrating Treatment,39408,4.034,Treatment,56.0,1,0,0,1,4.04305126783455,10.581749495596627,1
+CLINIQUE,Acne Solutions Clinical Clearing Gel,59548,4.2117,Treatment,32.0,1,1,1,0,3.49650756146648,10.994554782031198,0
+Algenist,ELEVATE Advanced Retinol Serum,5451,4.4513,Treatment,98.0,1,1,0,0,4.59511985013459,8.603737792816423,0
+Murad,Rapid Relief Acne Spot Treatment,41475,4.01265,Treatment,26.0,0,0,1,0,3.295836866004329,10.632870225678168,1
+Dior,Capture Youth Glow Booster Age-Delay Illuminating Serum,0,4.78335,Treatment,110.0,0,1,0,0,4.709530201312334,0.0,0
+Algenist,POWER Advanced Wrinkle Fighter 360° Eye Serum,9082,4.0615,Treatment,70.0,1,1,1,1,4.262679877041316,9.114159813502214,0
+First Aid Beauty,FAB Skin Lab Retinol Serum 0.25% Pure Concentrate,24816,4.14055,Treatment,58.0,1,1,1,1,4.07753744390572,10.119284181187284,1
+Murad,Revitalixir Recovery Serum,7556,4.43465,Treatment,97.0,1,1,1,1,4.584967478670572,8.93022956502072,1
+Jack Black,Protein Booster Skin Serum,6491,4.69375,Treatment,62.0,1,1,1,1,4.143134726391533,8.778325928634482,1
+Kate Somerville,+Retinol Vita C Power Serum,8879,3.70205,Treatment,110.0,1,1,1,0,4.709530201312334,9.091556835986216,1
+CLINIQUE,Fresh Pressed Daily Booster with Pure Vitamin C 10%,23281,3.96495,Treatment,85.0,1,1,1,1,4.454347296253507,10.055435808808186,0
+Algenist,GENIUS Ultimate Anti-Aging Vitamin C+ Serum,10068,3.94125,Treatment,118.0,1,1,1,1,4.77912349311153,9.217216675915616,0
+MILK MAKEUP,Watermelon Brightening Serum,38968,3.9129,Treatment,36.0,1,1,1,1,3.610917912644224,10.57052173723882,1
+Peter Thomas Roth,Acne-Clear Invisible Dots,24178,3.5157,Treatment,32.0,1,1,1,1,3.49650756146648,10.093239766820613,0
+Dior,Capture Youth Plump Filler Age-Delay Plumping Serum,0,4.2,Treatment,110.0,1,1,0,0,4.709530201312334,0.0,0
+Murad,Outsmart Acne Clarifying Treatment,10030,4.24615,Treatment,49.0,0,1,1,1,3.912023005428146,9.213435576883484,1
+Dr. Dennis Gross Skincare,Hyaluronic Marine Hydration Booster,13677,4.32775,Treatment,72.0,0,0,0,0,4.290459441148391,9.523543981658042,1
+Kate Somerville,Age Arrest Anti-Wrinkle Cream,6101,4.06745,Treatment,98.0,0,0,0,0,4.59511985013459,8.716371865276615,1
+Dior,Hydra Life Deep Hydration Sorbet Water Essence,5499,4.4719,Treatment,80.0,0,1,1,0,4.394449154672439,8.612503371220562,0
+Murad,Acne Body Wash,22065,4.0467,Treatment,48.0,0,0,0,0,3.8918202981106265,10.001793241320252,1
+Murad,Pure Skin Clarifying Dietary Supplement,12516,4.08615,Treatment,50.0,0,0,1,0,3.9318256327243257,9.434842999328025,1
+Kate Somerville,EradiKate Salicylic Acid Acne Treatment,8230,4.35715,Treatment,68.0,0,1,0,0,4.23410650459726,9.015662792972645,1
+Murad,Rapid Collagen Infusion,10417,4.164,Treatment,89.0,0,0,0,0,4.499809670330265,9.251290358305138,1
+Dr. Brandt Skincare,MAGNETIGHT Age-Defier Mask,19870,3.9108,Treatment,75.0,1,1,1,0,4.330733340286331,9.897016661405816,0
+Estée Lauder,Perfectionist Pro Rapid Firm + Lift Treatment,4615,4.5,Treatment,86.0,1,1,1,0,4.465908118654584,8.437283808187935,0
+Shiseido,Future Solution LX Intensive Firming Contour Serum,1898,4.35,Treatment,310.0,1,1,1,1,5.739792912179234,7.549082710812286,0
+Algenist,Advanced Anti-Aging Repairing Oil,10676,4.426550000000001,Treatment,82.0,1,1,1,1,4.418840607796598,9.275847174178304,0
+Jack Black,Power Peel Multi-Acid Resurfacing Pads,5741,4.47925,Treatment,38.0,0,0,0,0,3.6635616461296463,8.655562860681009,1
+BeautyBio,The Nightly Retinol + Peptide Anti-Aging Serum,5003,4.35,Treatment,95.0,1,1,1,1,4.564348191467836,8.517992871586802,1
+CLINIQUE,Acne Solutions All-Over Clearing Treatment Oil-Free,17157,4.0091,Treatment,26.0,0,0,0,0,3.295836866004329,9.75021981613291,0
+Jack Black,Line Smoother Oil-Free Moisturizer,4071,4.47725,Treatment,32.0,0,0,0,0,3.49650756146648,8.311889558230359,1
+Dr. Brandt Skincare,Do Not Age with Dr. Brandt Transforming Pearl Serum,3259,4.2426,Treatment,152.0,0,0,0,0,5.030437921392435,8.089482474360754,0
+Algenist,ELEVATE Advanced Lift Contouring Cream,3317,4.31215,Treatment,96.0,1,1,1,1,4.574710978503383,8.10711747075039,0
+Summer Fridays,Jet Lag Mask,245435,4.0631,Face Mask,49.0,1,1,1,1,3.912023005428146,12.410791499766166,1
+fresh,Rose Face Mask,125801,4.19435,Face Mask,64.0,0,0,0,0,4.174387269895637,11.742464521373291,0
+fresh,Black Tea Instant Perfecting Mask,65834,4.29595,Face Mask,96.0,0,0,0,0,4.574710978503383,11.094906890790444,0
+Summer Fridays,Overtime Mask,68583,4.45435,Face Mask,49.0,1,1,1,0,3.912023005428146,11.135814550358592,1
+La Mer,The Lifting and Firming Mask,15023,4.59285,Face Mask,300.0,0,0,0,0,5.707110264748875,9.617404201448045,0
+Dr. Jart+,Sheet Masks,77748,4.2088,Face Mask,7.0,1,1,1,1,2.079441541679836,11.261240968222433,0
+Origins,Clear Improvement Active Charcoal Mask to Clear Pores,194892,4.3146,Face Mask,17.0,1,1,1,1,2.8903717578961645,12.18020596899638,0
+Peter Thomas Roth,24K Gold Pure Luxury Lift & Firm Hydra-Gel Eye Patches,49824,3.9297,Face Mask,75.0,1,1,1,1,4.330733340286331,10.816272145080996,0
+Tatcha,Violet-C Radiance Mask,96300,4.07535,Face Mask,70.0,1,1,1,1,4.262679877041316,11.475233981948293,1
+Peter Thomas Roth,Pumpkin Enzyme Mask Enzymatic Dermal Resurfacer,55129,4.68055,Face Mask,60.0,1,1,1,0,4.110873864173311,10.917449311583727,0
+fresh,Lotus Youth Preserve Rescue Mask,33687,4.4255,Face Mask,69.0,0,0,0,0,4.248495242049359,10.424896969841765,0
+Origins,Original Skin Retexturizing Mask with Rose Clay,103131,4.66035,Face Mask,32.0,0,1,1,0,3.49650756146648,11.5437650001212,0
+REN Clean Skincare,Glycol Lactic Radiance Renewal Mask,58212,4.4011,Face Mask,58.0,1,1,1,0,4.07753744390572,10.971863976474271,0
+Origins,Out of Trouble 10 Minute Mask to Rescue Problem Skin,79246,4.3985,Face Mask,32.0,0,0,0,0,3.49650756146648,11.280324836133422,0
+Origins,Clear Improvement Charcoal Honey Mask to Purify and Nourish,34965,4.67265,Face Mask,37.0,1,1,1,0,3.6375861597263857,10.462131439757597,0
+Shiseido,White Lucent Power Brightening Mask,13301,4.3266,Face Mask,72.0,0,0,0,0,4.290459441148391,9.495669678844369,0
+SK-II,Brightening Derm Revival Mask,7740,4.4597,Face Mask,170.0,1,1,1,1,5.14166355650266,8.954286157204713,0
+OLEHENRIKSEN,Cold Plunge Pore Mask,102859,4.56675,Face Mask,41.0,1,1,1,1,3.737669618283368,11.541124119328908,1
+Lancôme,Advanced Génifique Hydrogel Melting Mask,13528,4.291650000000001,Face Mask,15.0,1,1,1,1,2.772588722239781,9.51259080860336,0
+Shiseido,Benefiance Pure Retinol Intensive Revitalizing Face Mask,11355,4.425000000000001,Face Mask,70.0,0,0,0,0,4.262679877041316,9.337501517592862,0
+REN Clean Skincare,Evercalm Ultra Comforting Rescue Mask,31464,4.5084,Face Mask,52.0,0,0,0,1,3.970291913552122,10.356631095961037,0
+Tatcha,Luminous Deep Hydration Lifting Mask,27298,4.4537,Face Mask,95.0,1,1,1,1,4.564348191467836,10.214605350465526,1
+Dr. Brandt Skincare,Hydro Biotic Recovery Sleeping Mask,21773,4.5894,Face Mask,54.0,1,1,1,1,4.007333185232471,9.988471876441125,0
+Peter Thomas Roth,Irish Moor Mud Purifying Black Mask,23860,4.3862000000000005,Face Mask,60.0,1,1,1,1,4.110873864173311,10.080000605922026,0
+SEPHORA COLLECTION,SUPERMASK - The Charcoal Mask,16867,3.9307,Face Mask,5.5,0,1,1,0,1.8718021769015916,9.73317361486645,0
+Estée Lauder,Micro Essence Infusion Mask,6293,4.425,Face Mask,75.0,0,0,0,0,4.330733340286331,8.747352077624353,0
+La Mer,Treatment Lotion Hydrating Mask,8179,4.18045,Face Mask,190.0,1,1,1,1,5.25227342804663,9.009447429596792,0
+Charlotte Tilbury,Goddess Clay Mask,11636,4.30575,Face Mask,58.0,1,1,1,1,4.07753744390572,9.361944956108076,1
+Dr. Brandt Skincare,pores no more Vacuum Cleaner Pore Purifying Mask,16237,3.9935,Face Mask,44.0,0,0,1,0,3.80666248977032,9.695109453422392,0
+Dr. Dennis Gross Skincare,Hyaluronic Marine Hydrating Modeling Mask,9464,4.09605,Face Mask,52.0,1,1,0,0,3.970291913552122,9.155356063643422,1
+CLINIQUE,Acne Solutions Oil-Control Cleansing Mask,18472,4.48845,Face Mask,29.0,0,0,0,0,3.4011973816621555,9.824065485558638,0
+La Mer,The Intensive Revitalizing Mask,6256,4.67855,Face Mask,200.0,0,0,0,0,5.303304908059076,8.741456115998364,0
+Peter Thomas Roth,Cucumber Gel Mask Extreme Detoxifying Hydrator,31288,4.199450000000001,Face Mask,55.0,1,1,1,1,4.02535169073515,10.351021877059864,0
+Skin Laundry,Wrinkle Release Facial Sheet Mask,2931,4.35,Face Mask,12.0,1,1,1,1,2.5649493574615367,7.983440063006542,0
+Naturally Serious,Mask-imum Revival Hydra-Plumping Mask,978,4.4405,Face Mask,27.0,1,1,1,1,3.332204510175204,6.88653164253051,0
+Skin Laundry,Wrinkle Release Neck & Chest Sheet Mask,2226,2.975,Face Mask,15.0,1,1,1,1,2.772588722239781,7.708410667257367,0
+Kiehl's Since 1851,Creamy Eye Treatment with Avocado,68043,4.1497,Eye cream,36.0,1,1,1,1,3.610917912644224,11.127909833729474,0
+fresh,Black Tea Firming and De-Puffing Eye Cream,58657,3.9384,Eye cream,68.0,1,1,1,1,4.23410650459726,10.979479247166704,0
+La Mer,The Eye Balm Intense,10037,3.8409,Eye cream,260.0,0,0,0,0,5.564520407322694,9.21413317021488,0
+Shiseido,Benefiance WrinkleResist24 Pure Retinol Express Smoothing Eye Mask,81341,4.411,Eye cream,70.0,1,1,1,0,4.262679877041316,11.306417767307444,0
+Peter Thomas Roth,Water Drench Hyaluronic Cloud Hydra-Gel Eye Patches,60266,4.234500000000001,Eye cream,55.0,1,1,1,1,4.02535169073515,11.00653996923026,0
+La Mer,The Lifting Eye Serum,7599,3.41665,Eye cream,300.0,0,0,0,0,5.707110264748875,8.935903526274423,0
+Shiseido,Ultimune Eye Power Infusing Eye Concentrate,13,3.8,Eye cream,70.0,1,1,1,1,4.262679877041316,2.639057329615259,0
+Wander Beauty,Baggage Claim Rose Gold Eye Masks,38772,4.3493,Eye cream,26.0,1,1,1,0,3.295836866004329,10.565479407088418,1
+Shiseido,Future Solution LX Eye and Lip Contour Regenerating Cream,6410,3.99165,Eye cream,155.0,1,1,1,1,5.049856007249537,8.765770543987257,0
+Peter Thomas Roth,Cucumber De-Tox Hydra-Gel Eye Patches,52503,4.0334,Eye cream,55.0,1,1,1,1,4.02535169073515,10.868644636153558,0
+CLINIQUE,Pep-Start Eye Cream,47677,3.68845,Eye cream,32.0,1,1,1,1,3.49650756146648,10.772225354550736,0
+Murad,Renewing Eye Cream,13212,4.065799999999999,Eye cream,89.0,0,0,0,0,4.499809670330265,9.488956472414216,1
+Peace Out,Puffy Under-Eye Patches,28152,4.42995,Eye cream,25.0,1,1,1,1,3.258096538021482,10.245409199825508,0
+tarte,Maracuja C-Brighter Eye Treatment,45734,4.00445,Eye cream,39.0,1,1,1,1,3.688879454113936,10.730619148090463,1
+Origins,Eye Doctor Moisture Care For Skin Around Eyes,27439,4.07595,Eye cream,49.0,0,0,0,0,3.912023005428146,10.219757081839822,0
+Bobbi Brown,Hydrating Eye Cream,21441,4.0995,Eye cream,58.0,0,0,0,0,4.07753744390572,9.973106894416183,0
+Murad,Retinol Youth Renewal Eye Serum,27356,4.3639,Eye cream,89.0,1,1,1,1,4.499809670330265,10.216727716601776,1
+Shiseido,White Lucent Anti-Dark Circles Eye Cream,15783,3.5939,Eye cream,65.0,0,0,0,0,4.189654742026425,9.66675204770245,0
+CLINIQUE,Repairwear Laser Focus Wrinkle Correcting Eye Cream,9568,3.90335,Eye cream,54.0,0,0,0,0,4.007333185232471,9.166283985779264,0
+Dior,One Essential Eye Serum,5908,4.416650000000001,Eye cream,72.0,0,1,0,0,4.290459441148391,8.684231891345675,0
+CLINIQUE,All About Eyes Serum De-Puffing Eye Massage,24355,3.78455,Eye cream,37.0,0,0,0,0,3.6375861597263857,10.100533504728464,0
+fresh,Lotus Youth Preserve Eye Cream,21612,3.95185,Eye cream,45.0,0,0,0,0,3.828641396489095,9.98105026448392,0
+Origins,Plantscription Anti-Aging Power Eye Cream,11304,3.8186,Eye cream,58.0,0,0,0,0,4.07753744390572,9.33300038471207,0
+Dr. Dennis Gross Skincare,Hyaluronic Marine Dew It Right Eye Gel,12365,3.7221,Eye cream,55.0,1,1,1,1,4.02535169073515,9.422706050118514,1
+Algenist,GENIUS Ultimate Anti-Aging Eye Cream,6866,3.73795,Eye cream,74.0,0,0,0,0,4.31748811353631,8.834482608620677,0
+FOREO,IRIS Illuminating Eye Massager,10363,3.5,Eye cream,149.0,0,0,0,0,5.010635294096256,9.246093541682,0
+Dr. Brandt Skincare,24/7 Retinol Eye Cream,8505,3.70795,Eye cream,58.0,1,1,1,0,4.07753744390572,9.04852707581358,0
+CLINIQUE,Even Better Eyes Dark Circle Corrector,15610,3.2714,Eye cream,44.0,0,0,0,0,3.80666248977032,9.655731072956666,0
+BeautyBio,GloPRO EYE MicroTip Attachment Head,4925,1.25,Eye cream,39.0,0,0,0,0,3.688879454113936,8.502282578680484,1
+Kate Somerville,Wrinkle Warrior Eye Gel Visible Dark Circle Eraser,4822,3.03335,Eye cream,76.0,1,1,1,0,4.343805421853684,8.481151420068972,1
+Kate Somerville,Line Release Under Eye Repair Cream,4556,3.90715,Eye cream,140.0,0,0,0,0,4.948759890378168,8.424419791263883,1
+Dior,Hydra Life Cooling Hydration Sorbet Eye Gel,6630,3.5613,Eye cream,60.0,1,1,0,1,4.110873864173311,8.799510901368867,0
+BeautyBio,Bright Eyes Collagen-Infused Brightening Colloidal Silver Eye Masks,16264,4.5297,Eye cream,40.0,1,1,1,1,3.713572066704308,9.696770838907453,1
+Kate Somerville,Age Arrest Eye Cream,4568,3.67255,Eye cream,98.0,0,0,0,0,4.59511985013459,8.427049641563272,1
+Dr. Brandt Skincare,Do Not Age with Dr. Brandt Triple Peptide Eye Cream,8950,4.1411,Eye cream,82.0,1,1,1,0,4.418840607796598,9.09952053687094,0
+Algenist,ELEVATE Firming & Lifting Contouring Eye Cream,1957,3.1290500000000003,Eye cream,72.0,1,1,1,1,4.290459441148391,7.579678823090456,0
+Naturally Serious,Zero Baggage Anti-Dark Circle Eye Cream,6994,3.75775,Eye cream,26.0,1,1,1,1,3.295836866004329,8.852950887099581,0
+Estée Lauder,DayWear Eye Cooling Anti-Oxidant Moisture GelCreme,2157,3.98635,Eye cream,46.0,1,1,1,0,3.8501476017100575,7.67693714581808,0
+NARS,Pure Radiant Tinted Moisturizer Broad Spectrum SPF 30,207445,4.378,Sun protect,46.0,0,0,0,0,3.8501476017100575,12.24262634382048,0
+Kiehl's Since 1851,Super Fluid Daily UV Defense Sunscreen Broad Spectrum SPF 50+,18993,4.0024,Sun protect,68.0,1,1,1,1,4.23410650459726,9.851878418802896,0
+Murad,City Skin Age Defense Broad Spectrum SPF 50 PA++++,26245,4.51095,Sun protect,69.0,1,1,0,1,4.248495242049359,10.175268875456233,1
+NARS,Radiance Primer Broad Spectrum SPF 35 Sunscreen,15709,4.06765,Sun protect,36.0,0,0,0,0,3.610917912644224,9.662052731249666,0
+Josie Maran,Argan Daily Moisturizer Tinted SPF 47 Protect + Perfect,20882,4.00615,Sun protect,38.0,0,0,0,0,3.6635616461296463,9.946690709836776,1
+Murad,Perfecting Day Cream Broad Spectrum SPF 30 PA+++,7792,4.1862,Sun protect,65.0,0,0,0,0,4.189654742026425,8.96098117384356,1
+Shiseido,Future Solution LX Total Protective Cream Broad Spectrum SPF 20 Sunscreen,1874,5.0,Sun protect,270.0,1,1,1,1,5.602118820879701,7.536363938404511,0
+Origins,Plantscription SPF 25 Power Anti-Aging Oil-Free Cream,6634,4.5,Sun protect,73.0,0,1,1,1,4.304065093204169,8.800113946766308,0
+CLINIQUE,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Dry Combination Skin,3174,4.30715,Sun protect,64.0,0,0,0,0,4.174387269895637,8.063062911326792,0
+CLINIQUE,Age Defense BB Cream Broad Spectrum SPF 30,14741,3.87915,Sun protect,42.0,0,0,0,0,3.7612001156935615,9.598455841749232,0
+Kiehl's Since 1851,Super Multi-Corrective Cream Sunscreen Broad Spectrum SPF 30,3510,3.55,Sun protect,95.0,1,1,1,1,4.564348191467836,8.163656176168432,0
+La Mer,The Broad Spectrum SPF 50 UV Protecting Fluid,12975,4.476850000000001,Sun protect,105.0,0,0,0,0,4.663439094112067,9.470856776355197,0
+Shiseido,Ultimate Sun Protection Spray Broad Spectrum SPF 50+ For Face/Body,17778,4.00875,Sun protect,40.0,0,0,0,0,3.713572066704308,9.785773264516571,0
+CLINIQUE,Broad Spectrum SPF 50 Sunscreen Face Cream,16286,4.0853,Sun protect,30.0,0,0,0,0,3.4339872044851463,9.69812252257356,0
+CLINIQUE,Smart Broad Spectrum SPF 15 Custom-Repair Moisturizer for Very Dry to Dry Skin,1428,4.45,Sun protect,64.0,0,0,0,0,4.174387269895637,7.264730177929867,0
+Jack Black,Oil-Free Sun Guard Sunscreen Water Resistant SPF 45,11399,4.6102,Sun protect,22.0,0,0,0,0,3.1354942159291497,9.341368634382588,1
+CLINIQUE,Pep-Start Daily UV Protector Broad Spectrum SPF 50,19781,4.226050000000001,Sun protect,23.0,1,1,1,1,3.1780538303479458,9.892527712299788,0
+CLINIQUE,Repairwear Uplifting Firming Cream Broad Spectrum SPF 15,1195,3.6,Sun protect,72.0,0,0,0,0,4.290459441148391,7.086737934510577,0
+CLINIQUE,Broad Spectrum SPF 50 Mineral Sunscreen Fluid for Face,8842,3.62025,Sun protect,31.0,1,1,1,1,3.4657359027997265,9.087381464575737,0
+CLINIQUE,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Very Dry to Dry Combination Skin,1535,4.2625,Sun protect,61.0,0,0,0,0,4.127134385045092,7.336936913707618,0
+CLINIQUE,Repairwear Laser Focus Line Smoothing Cream Broad Spectrum SPF 15 for Combination Oily to Oily Skin,690,3.68335,Sun protect,53.0,0,0,0,0,3.9889840465642745,6.53813982376767,0
+Shiseido,Future Solution LX Total Protective Emulsion Broad Spectrum SPF 20 Sunscreen,636,3.5,Sun protect,270.0,1,1,1,1,5.602118820879701,6.456769655572163,0
