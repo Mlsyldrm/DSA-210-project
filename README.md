@@ -9,7 +9,7 @@
 ---
 
 🌐 **Project Presentation:**  
-👉
+👉👉 [Open Presentation Page](https://mlsyldrm.github.io/DSA-210-project/presentation.html)
 
 📄 This repository contains the full technical implementation, dataset, statistical tests, and machine learning models for the project.  
 The website serves as a high-level presentation, while all details are documented here.
